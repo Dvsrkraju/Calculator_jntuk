@@ -23,4 +23,7 @@ public class Calculator {
 	public double doRem2(double num1, double num2) {
 		return num1 % num2;
 	}
+	public double doRem3(double num1, double num2) {
+		return num1 % num2;
+	}
 }
